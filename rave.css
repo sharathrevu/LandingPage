@@ -1,0 +1,65 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 80px;
+    top: 10px;
+}
+.ShopNow{
+    height: 620px;
+    width: 100%;
+    background-image: url(./assests/images/Designer\ clothing\ brand\ named\ rave.jpg);
+}
+.btn{
+    margin-top: 320px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+.L{
+    color:#04d9ff;
+    font-weight: 900;
+}
+.L1{
+    color: #fe347e;
+    font-weight: 900;
+}
+.col-12{
+    padding-left: 40px;
+    /* padding-right: 50px; */
+}
+#green{
+    height: 350px;
+    width: 350px;
+}
+.card{
+    width: 800px;
+    border: 0px;
+}
+.card-title{
+    color:#fe347e;
+    font-weight: 900;
+}
+.card-title1{
+    color: #04d9ff;
+    font-weight: 900;
+}
+.lgin{
+    
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
+#blue{
+    height: 350px;
+    width: 350px;
+}
+.lgpg{
+    padding-left: 220px;
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
